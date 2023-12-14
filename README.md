@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anas Khatab  
-- 👀 I’m interested in DevOps Field
-- 🌱 I’m currently learning DevOps Tools
-- 💞️ I’m looking to collaborate on Devops Projects
+- 👀 I’m interested in CyberSecurity Field
+- 🌱 I’m currently work as Technical Support at _VOIS
+- 💞️ I’m looking to collaborate on CyberSecurity Projects
 - 📫 How to reach me anas.alshal@outlook.com
 
 <!---
